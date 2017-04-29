@@ -1,2 +1,4 @@
-# learning-bash
-Learning Bash Scripting (Example Files)
+# BASH Scripting
+Learn Bash Scripting (Example Files)
+
+Ref: http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
